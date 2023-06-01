@@ -1,0 +1,8 @@
+POST git-upload-pack (196 bytes)
+POST git-upload-pack (833 bytes)
+From https://github.com/160055216-myseneca/CSN400-Capstone
+   c5116e7..faf3b27  main        -> origin/main
+ = [up to date]      feat-emojis -> origin/feat-emojis
+Auto-merging Checkpoint3/conflict-resolution/index.html
+CONFLICT (content): Merge conflict in Checkpoint3/conflict-resolution/index.html
+Automatic merge failed; fix conflicts and then commit the result.
